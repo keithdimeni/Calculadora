@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Calculadora": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
